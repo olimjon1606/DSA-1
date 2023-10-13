@@ -16,7 +16,6 @@ function makeHistory(limit) {
             return `${str} done`;
         }
        }
-
 }
 
 // /*** Uncomment these to check your work! ***/
